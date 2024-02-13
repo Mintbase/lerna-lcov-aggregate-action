@@ -28,10 +28,10 @@ jobs:
 
     - uses: actions/checkout@v1
 
-    - name: Use Node.js 12.x
+    - name: Use Node.js 20.0
       uses: actions/setup-node@v1
       with:
-        node-version: 12.x
+        node-version: 20.0
 
     - name: npm install, npm run test:coverage
       run: |

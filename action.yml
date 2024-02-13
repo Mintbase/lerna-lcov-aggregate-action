@@ -4,5 +4,5 @@ branding:
   color: 'blue'
   icon: 'git-merge'
 runs:
-  using: 'node16'
+  using: 'node20'
   main: 'index.js'

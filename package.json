@@ -14,15 +14,15 @@
     "github-action"
   ],
   "engines": {
-    "node": ">=12.0"
+    "node": ">=20.0"
   },
-  "homepage": "https://github.com/RauliL/lerna-lcov-aggregate-action",
+  "homepage": "https://github.com/Mintbase/lerna-lcov-aggregate-action",
   "repository": {
     "type": "git",
-    "url": "git@github.com:RauliL/lerna-lcov-aggregate-action.git"
+    "url": "git@github.com:Mintbase/lerna-lcov-aggregate-action.git"
   },
   "bugs": {
-    "url": "https://github.com/RauliL/lerna-lcov-aggregate-action/issues"
+    "url": "https://github.com/Mintbase/lerna-lcov-aggregate-action/issues"
   },
   "files": [
     "action.yml",
